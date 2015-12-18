@@ -1,7 +1,7 @@
 /*
  * @brief SAMU - the potential ancestor of developmental robotics chatter bots
  *
- * @file nlp.hpp
+ * @file SPOTriplet.java
  * @author  Magyari László <mandroid19@gmail.com>
  * @version 0.0.1
  *
